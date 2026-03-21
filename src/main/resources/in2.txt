@@ -1,0 +1,10 @@
+Fernanda Souza,2000.00
+Ana Beatriz,4500.00
+Patrícia Lima,1970.00
+Lucas Martins,5000.00
+Camila Andrade,10000.00
+João Pedro,8750.00
+Mariana Oliveira,4320.00
+Rafael Gomes,2130,00
+Bruno Costa,7000.00
+Carlos Eduardo,1211.00
